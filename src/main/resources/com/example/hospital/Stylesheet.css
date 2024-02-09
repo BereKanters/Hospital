@@ -1,0 +1,21 @@
+.root {
+    -fx-background-color: #4c814c;
+}
+
+.button {
+    -fx-background-color: #ffffff; /* Groene kleur */
+    -fx-text-fill: #1a1c20; /* Witte tekstkleur */
+}
+
+.list-cell {
+    -fx-background-color: #ffffff;
+    -fx-text-fill: black; /* Zwarte tekstkleur voor lijstcellen */
+}
+
+.list-view {
+    -fx-background-color: #ffffff;
+}
+
+.label {
+    -fx-text-fill: #4CAF50; /* Groene tekstkleur voor labels */
+}
